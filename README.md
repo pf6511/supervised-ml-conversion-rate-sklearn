@@ -1,4 +1,4 @@
-# jedha-dts-ml-supervised-conversion-rate
+# supervised-ml-conversion-rate
 * Supervised Machine Learning - Conversion rate challenge
 * Contexte : Site de newsletter en datascience
 * Ce projet a pour but de construire un modèle de ML supervisé pour prédire si un visiteur du site
